@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/HibernateLibrary"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/H2/bin/h2-1.4.191.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/javassist.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/test/antlr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/test/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/test/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/test/cglib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/test/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/test/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/test/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/test/slf4j-log4j12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/build/ant-contrib-1.0b2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/build/ant-junit-1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarath Potluri/Desktop/set/hibernate-entitymanager-3.4.0.GA/lib/build/junit-3.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
